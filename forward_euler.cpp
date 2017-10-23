@@ -1,3 +1,5 @@
+// COMMENT THESE SAME LINES OUT IN solver.cpp lines 142-159 AND PASTE THESE BELOW 
+
 /////////////////////////////////////////////////////////////////////////////////
 //Forward Euler Method
 
